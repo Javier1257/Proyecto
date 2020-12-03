@@ -15,19 +15,25 @@ que es un simulador de lucha por lo que se definene sus atributos y metodos.
 
 # Funcionalidad
 
-El programa solo permite usar un personaje y un solo arma, además de enfrentar solo a un mounstruo.
-El personaje tiene 3 turnos para atacar o curarse antes de que el mounstruo lanza un golpe y al
-cuarto turno este arroja un zarpaso que es un golpe más fuerte de lo usual.
-Durante cada turno se genera un menu de opciones con las acciones posibles
+- El programa solo permite usar un personaje y un solo arma, además de enfrentar solo a un mounstruo.
+
+- El personaje tiene 3 turnos para atacar o curarse antes de que el mounstruo lanza un golpe y al
+  cuarto turno este arroja un zarpaso que es un golpe más fuerte de lo usual.
+
+- Durante cada turno se genera un menu de opciones con las acciones posibles
 
 # Consideracciones
 
 El programa solo corre en la consola y esta hecho con c++ standard por lo que corre en todos los sistemas operativos
+
 Compilar con: "g++ Main.cpp"
+
 Correr en linux: "/a.out"
+
 Correr en windows: "a.exe"
 
 # Correcciones
 
 Para este programa se realizaron las siguientes correcciones:
+
 1.- Se replanteo el proyecto por lo que fue reestructurado y desarrollado desde cero
